@@ -1,0 +1,12 @@
+{
+  "name": "clarity-backend",
+  "version": "1.0.0",
+  "description": "Backend functions for Clarity - Fatigue Diagnosis",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "jspdf": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
